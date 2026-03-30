@@ -1,9 +1,3 @@
-That sounds like a great project! A clean, professional README is the digital "front door" to your work. Since it's a portfolio, we want to make it scannable for recruiters while showing off your personality.
-
-Here is a structured template you can copy and paste into your `README.md` file. I've added some "Pro-Tips" in the comments to help you stand out.
-
----
-
 # 🚀 Network Portfolio
 
 ### 👤 Info
