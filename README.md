@@ -40,6 +40,8 @@
 
 ![Alt text](certificate/certificate.jpg)
 
+![Alt text](certificate/network.jpg)
+
 ---
 ### ✅ Check Point
 
