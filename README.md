@@ -3,6 +3,7 @@
 ### 👤 Info
 * **Name:** นายพีรพัฒน์ แท่นประยุทธ
 * **Student ID:** 673380288-6
+* **Section:** 2
 
 ---
 
@@ -35,4 +36,13 @@
 
 * [**Project**](https://github.com/MammamiaPizza/Synapse-X_network)
 
+### 📜 Certificate
 
+![Alt text](certificate/certificate.jpg)
+
+---
+### ✅ Check Point
+
+<img width="1872" height="427" alt="image" src="https://github.com/user-attachments/assets/d6ff8a62-c855-40d0-aa35-99e331e48851" />
+
+---
